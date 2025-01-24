@@ -853,7 +853,7 @@ footer nav {
     gap: 16px;
   }
   .first_sec_button_wrapper {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: stretch;
     max-width: none;
     align-self: stretch;
@@ -874,6 +874,7 @@ footer nav {
   }
   .fifth_sec_cards_wrapper {
     flex-wrap: wrap;
+    justify-content: center;
   }
   .footer_nav_sec {
     flex-wrap: wrap;
