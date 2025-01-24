@@ -1035,4 +1035,7 @@ footer nav {
   .first_sec_button_wrapper {
     padding: 0 16px;
   }
+  main {
+    gap: 0;
+  }
 }
